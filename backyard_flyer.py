@@ -1,3 +1,8 @@
+'''
+@author Sai Vineeth K V 
+@file backyard_flyer.py
+@brief Driver to move the Udacity Drone in a Square box using State Machine
+'''
 import argparse
 import time
 from enum import Enum
